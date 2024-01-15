@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Application Quiz</string>
+    <string name="image_of_quiz_app">Image of Quiz App</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="technology_based_questions">Technology Based Questions</string>
+    <string name="image_of_sign_up">Image of Sign Up</string>
+    <string name="reg_email">Email</string>
+    <string name="reg_username">UserName</string>
+    <string name="reg_password">Password</string>
+    <string name="reg_login">Log In</string>
+    <string name="reg_btn">Register</string>
+    <string name="login_page_image">Login Page Image</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="logging_in">Log In</string>
+    <string name="googly">Google</string>
+    <string name="don_t_have_account">Don’t have account</string>
+    <string name="create_a_new_one">Create a new one</string>
+    <string name="final_page_result">Result</string>
+    <string name="final_logout">LogOut</string>
+    <string name="final_page_result_image">Final Page result image</string>
+</resources>
